@@ -1,5 +1,5 @@
 # Memorize
-CS193P - Developing Apps for iOS | University de Stanford
+CS193P - Developing Apps for iOS | Stanford University 08/2022
 
 
 ![preview](https://i.imgur.com/kkZGexI.png)
