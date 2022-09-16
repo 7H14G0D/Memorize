@@ -4,7 +4,7 @@ CS193P - Developing Apps for iOS | University de Stanford
 
 ![preview](https://i.imgur.com/kkZGexI.png)
 
-> iOS
+> iOS - MemoryGame 
 
 Projeto construído das video-aulas do curso da Universidade de Stanford.
 
